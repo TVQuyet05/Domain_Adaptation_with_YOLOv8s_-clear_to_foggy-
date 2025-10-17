@@ -1,0 +1,7 @@
+
+path: D:\Python\Train_model\YOLOv8s_DA\foggy_anything\foggy_anything
+train: train/images
+val: val/images
+test: test/images
+nc: 2
+names: ['person', 'car']
